@@ -26,7 +26,7 @@ namespace task6
         {
             Console.WriteLine("Pirmas skaicius yra {0}", num1);
             Console.WriteLine("Antras skaicius yra {0}", num2);
-            Console.WriteLine("{0} padalinus is {1} gausime {2}", num1, num2, GetDal());
+            Console.WriteLine("{0} padaline is {1} gausime {2}", num1, num2, GetDal());
         }
     }
     class Program
