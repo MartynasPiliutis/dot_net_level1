@@ -21,7 +21,8 @@ namespace task4
 
             Console.Clear();
             Console.WriteLine("Visi Geria :)");
-            Console.ReadLine();
+            Console.ReadLine()
+                ;
         }
     }
     
