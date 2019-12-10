@@ -12,7 +12,7 @@ namespace Task2
         private double lenght;
         private double width;
 
-        public void Acceptdetails()
+        public void AcceptDetails()
         {
             lenght = 4.5;
             width = 3.5;
@@ -33,7 +33,7 @@ namespace Task2
         static void Main(string[] args)
         {
             Rectangle r = new Rectangle();
-            r.Acceptdetails();
+            r.AcceptDetails();
             r.Display();
             Console.ReadLine();
         }
