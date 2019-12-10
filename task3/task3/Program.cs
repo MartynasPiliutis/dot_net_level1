@@ -20,6 +20,7 @@ namespace task3
 
             Console.Clear();
             Console.WriteLine("Ate...");
+            Console.WriteLine("ENTER - exit");
             Console.ReadLine();
         }
     }
